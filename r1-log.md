@@ -8,6 +8,9 @@ The log of my #100DaysOfCode challenge. Started on [October 3, Wednesday, 2018].
 Finished Introducing Javascript on Treehouse, tried to add and position items to a game.
 
 ### R1D2 [October 4, 2018]
-Started to learn about function of Javascript, got stuck at the return keyword.
+Started to learn about functions of Javascript, got stuck at the return keyword.
 
 ### R1D3 [October 5, 2018]
+Reviewed variables and built a simple Story Maker, will review numbers later tonight.
+
+### R1D4 [October 6, 2018]
