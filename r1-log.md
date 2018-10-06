@@ -11,6 +11,6 @@ Finished Introducing Javascript on Treehouse, tried to add and position items to
 Started to learn about functions of Javascript, got stuck at the return keyword.
 
 ### R1D3 [October 5, 2018]
-Reviewed variables and built a simple Story Maker, will review numbers later tonight.
+Reviewed variables and built a simple Story Maker.
 
 ### R1D4 [October 6, 2018]
