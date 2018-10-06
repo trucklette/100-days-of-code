@@ -14,3 +14,4 @@ Started to learn about functions of Javascript, got stuck at the return keyword.
 Reviewed variables and built a simple Story Maker.
 
 ### R1D4 [October 6, 2018]
+Learned some numbers and math methods, made a random number generator.
