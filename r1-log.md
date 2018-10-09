@@ -18,3 +18,9 @@ Learned some numbers and math methods, made a random number generator.
 
 ### R1D4 [October 7, 2018]
 Finished conditional statement tutorial, did a conditional challange.
+
+### R1D5 [October 8, 2018]
+Did half of the functions, got too tired and stopped :(.
+
+### R1D6 [October 9, 2018]
+Finished functions, moving on to some pratice tomorrow.
