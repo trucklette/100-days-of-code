@@ -25,5 +25,8 @@ Did half of the functions, got too tired and stopped :(.
 ### R1D7 [October 9, 2018]
 Finished functions, moving on to some pratice tomorrow.
 
-### R1D10 [October 10, 2018]
+### R1D8 [October 10, 2018]
 Did a calculating challenge with functions.
+
+### R1D9 [October 11, 2018]
+Learned some basics of Loops, DRY programming / defactoring, still a bit confused, need to review tomorrow.
