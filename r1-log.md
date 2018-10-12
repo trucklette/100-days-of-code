@@ -29,4 +29,7 @@ Finished functions, moving on to some pratice tomorrow.
 Did a calculating challenge with functions.
 
 ### R1D9 [October 11, 2018]
-Learned some basics of Loops, DRY programming / defactoring, still a bit confused, need to review tomorrow.
+Learned some basics of While Loops, Do While Loops, For Loops, DRY programming & defactoring, still a bit confused, need to review tomorrow.
+
+### R1D10 [October 12, 2018]
+Praticed and reviewed While Loops, Do While Loops & For Loops.
