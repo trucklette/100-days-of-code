@@ -33,3 +33,6 @@ Learned some basics of While Loops, Do While Loops, For Loops, DRY programming &
 
 ### R1D10 [October 12, 2018]
 Praticed and reviewed While Loops, Do While Loops & For Loops.
+
+### R1D11 [October 18, 2018]
+Learned how to add and remove items to the beginning or end of Arrays, and use for loop with Arrays.
